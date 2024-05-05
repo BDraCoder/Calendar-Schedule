@@ -1,0 +1,16 @@
+{
+  "name": "calendarschedule",
+  "version": "1.0.0",
+  "description": "A Calendar x Schedule application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BDraCoder",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.2"
+  }
+}
